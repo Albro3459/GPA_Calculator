@@ -1,6 +1,7 @@
 # GPA_Calculator
 
-Here is a sharable link to access the sheet in a web browser, without downloading.
+Here is a sharable link to access the sheet in a web browser, without downloading:
+https://1drv.ms/x/s!AkapqQqK8GWVc38FGzBw_omK1m8?e=FEBKtf
 
 This is an Excel Sheet I created for the LSU Office of Admissions to accurately calculate GPAs across multiple different GPA scales. LSU receives thousands of applications from high schools that use completely different GPA scales and grade weighting. Part of my job was to create this Excel Sheet to standardize the calculations for Admissions Counselors. This excel sheet is used by Counselors at LSU to calculate GPAs accurately.
 
